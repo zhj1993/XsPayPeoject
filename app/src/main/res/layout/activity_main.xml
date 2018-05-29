@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.kuaishouaxiu.www.kuaishouaxiu.view.pullview.AbPullToRefreshView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pullview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <!--<ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/ali"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="支付宝" />
+
+            <Button
+                android:id="@+id/wechat"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="微信" />
+        </LinearLayout>
+    </ScrollView>-->
+
+</com.kuaishouaxiu.www.kuaishouaxiu.view.pullview.AbPullToRefreshView>
