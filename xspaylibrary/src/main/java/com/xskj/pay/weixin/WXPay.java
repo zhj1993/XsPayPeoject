@@ -13,7 +13,7 @@ import org.json.JSONObject;
 
 /**
  * 微信支付
- * Created by tsy on 16/6/1.
+ * Created by zhj on 17/5/1.
  */
 public class WXPay {
 

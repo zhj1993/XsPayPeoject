@@ -11,7 +11,7 @@ import java.util.Map;
 
 /**
  * 支付宝支付
- * Created by tsy on 16/6/1.
+ * Created by zhj on 17/5/1.
  */
 public class Alipay {
     private String mOrder;
